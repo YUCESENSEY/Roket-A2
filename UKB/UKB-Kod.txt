@@ -1,0 +1,2 @@
+// Placeholder dosyası
+// Bunu GitHub'dan "KodOgrenme.ino" olarak kullanabilirsin.
